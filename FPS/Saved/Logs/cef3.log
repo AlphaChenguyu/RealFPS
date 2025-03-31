@@ -1,6 +1,1 @@
-[0325/004541.132:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
-[0325/004623.253:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0325/010035.087:ERROR:cache_util_win.cc(20)] Unable to move the cache: ¾Ü¾ø·ÃÎÊ¡£ (0x5)
-[0325/010035.088:ERROR:cache_util.cc(144)] Unable to move cache folder D:/GitHub/RealFPS/FPS/Saved/webcache_4430\Cache to D:/GitHub/RealFPS/FPS/Saved/webcache_4430\old_Cache_000
-[0325/010035.088:ERROR:disk_cache.cc(184)] Unable to create cache
-[0325/010038.094:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0330/203637.818:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
