@@ -1,0 +1,1140 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "DAE70302EC4B7A60528398D33C5F2BBACF54ED26",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "CE9A2402A7E30D6FEB43CF1F58D9F074FD84C9C3",
+			"Assets": [
+				"/Game/MilitaryWeapDark/FX/Materials/M_Pistol_Smoke_2x2_A"
+			]
+		},
+		{
+			"ShaderMapHash": "8B746B05EC42EC15F39BB6F528F4D6C66D34A8C8",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "99C93C094F2A39F7FFC6F219C8454DFBDBCF17D3",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Smoke/M_ShadowSwirls_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "9BE1D709D26204CC76E0A819FEF68326CE7A038B",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "D0688F0D32DEDBC1BC75E19154E46750EB9D548A",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "D4F9CF0F85276D5CCFF5C1BDB00DAEB05C224D5A",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Energy/M_SoulHand4"
+			]
+		},
+		{
+			"ShaderMapHash": "EEAD3B104A9473585B8F3E1A9B09D465BB51FAFA",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AA336911A1665E870BF262393DF609BFDCC7BA03",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Heroes/Terra/Abilities/M_Terra_ChromaticFresnel"
+			]
+		},
+		{
+			"ShaderMapHash": "E3F642125A067F547D973ADD81F9AEF426F4449F",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialKnob"
+			]
+		},
+		{
+			"ShaderMapHash": "ABBF0013827FE5E160214C101AF64ED6D796B354",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "4E45421377FB1BA225E301237DD2566AC0E963B2",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Debris/M_Explosion_RockChunks"
+			]
+		},
+		{
+			"ShaderMapHash": "54D71517F1C018C8A83D0A4115261C390AAF12C8",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DB759217FFD72F64198CC6C14C5DFAEE5C0210F7",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "45CDAD1726E3EB58BE39964D60E7184DF070CA1C",
+			"Assets": [
+				"/Game/MilitaryWeapDark/FX/Materials/M_AssaultRifle_MuzzleFlash_4x1",
+				"/Game/MilitaryWeapDark/FX/Materials/M_Pistol_Streaks_01"
+			]
+		},
+		{
+			"ShaderMapHash": "9CDADF17E59F837132097FE43CFB96A5F3DA0355",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "3878161EA4485439A1ACC2C6E1C9B338AB53D7F7",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "1EAC3B1FE9A2C2D1649D6298174E6B3125260FD9",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Flares/M_Lensflare_TB_Soft"
+			]
+		},
+		{
+			"ShaderMapHash": "916C5C1F112A8BC021B38D5FCB559130E3924FA9",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "E2DA3020BCFB583D215731D5EF33A42A7C39DB08",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "6171A020D312DFB91FD98C90F1EF992D5866D568",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "646D7C24A04CED1EDFE90950A2F6607E8984052D",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialEnvelope_ADSR"
+			]
+		},
+		{
+			"ShaderMapHash": "E0F21D25DA3DB967A3625BCE18C73CB4B55A228A",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Debris/M_ImposterRock_Masked_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "55F23F27CD36B82D55F3DF871E3CF2D3DAD65600",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Fire/m_flare_01"
+			]
+		},
+		{
+			"ShaderMapHash": "7E689527BB5694AF35E8F4FAB32FA8C4A0C7F004",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "6BF71C284687D981831CBE4CCD2629424B44D80F",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Smoke/WispySmokeSoft/M_Turbulent_SmokeSubUV_RandNoUVDist_VampInst"
+			]
+		},
+		{
+			"ShaderMapHash": "64EB8829FDB0EB73513BAEB4EEBDCAE3E537D555",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultParticle"
+			]
+		},
+		{
+			"ShaderMapHash": "3517D32A7739FD7DBAC3BCB76E0B7103279B880E",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Heroes/Terra/Abilities/M_SphereChromaWisps_Terra_sweep"
+			]
+		},
+		{
+			"ShaderMapHash": "B5A4F62ACA5730183109070A5FC46FC896493C56",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Fire/M_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "597B3E2B1A59D7D60D11804B3BEFD9F09D31B078",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Smoke/M_ShadowSwirls_BrightColors"
+			]
+		},
+		{
+			"ShaderMapHash": "3D905A2BE58125361F9851709F0B2D26C8FB3E8F",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/DemoRoom/Materials/M_DemoWallPattern",
+				"/Game/BossAIToolkit/Demo/DemoRoom/Materials/MI_DemoWallPattern_Mirrored",
+				"/Game/BossAIToolkit/Demo/DemoRoom/Materials/MI_DemoWallPattern_NoText"
+			]
+		},
+		{
+			"ShaderMapHash": "4D218B2FA087F5459F573D2ABBB2D11F0E45612D",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Heroes/M_Terra_Halo"
+			]
+		},
+		{
+			"ShaderMapHash": "D9EF9F34031472DA35B9FABE051BA223A9F228D5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "34A9CC34D0817CF7A6551ABC84F97DDA7C20C8B2",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "34081B3595792A4121B61EC1224890964BC2ED1C",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9F2C053A64D5395B2AD3D7CA07CC250E6C1E403F",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "633BAB3B99675663081D3FF2D002E5F1A0A32EF8",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Heroes/Terra/Abilities/M_Terra_Boom_Shield_Impact"
+			]
+		},
+		{
+			"ShaderMapHash": "FD1E6A3C7C92D63B009FE62FD89F9740474A7C24",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Chroma/M_SphereChromaWisps"
+			]
+		},
+		{
+			"ShaderMapHash": "9E79CD3DA3DB8AFB7F599FA5CE689844A3A190C4",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BD4F113E8DCE7E1E1B84FC96031C31FF7A6796BE",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "C993463F4EBAED89FDD4BF0FB888BF7434019EEE",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9AACCD42FD28B73FFAD733ED7CACCED568E53D1E",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "1335E54304D849A88C10F9B50935D832DA895592",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "B53DFE4A23F7DF6A0F1DC8CF965CBB011B57FD0C",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Fire/M_Shockwave"
+			]
+		},
+		{
+			"ShaderMapHash": "008C164B663F4D6551D5546F7B16CBD4394A1403",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/DemoRoom/Materials/MI_Glass_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "AE361D4C1ECF114779A9784DE901721DA9F3E458",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "0F85AC4FDAB44DA20E54A4F9501B8B9E89F50CC5",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3335EF50D3D9460AAB5D2D01CDF062DF81024F01",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "DEBB31517A42A33ED638A0A889CDCA06D1A6AFB0",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "634BEE531B60E57354722C1D6C150BC628898D47",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Heroes/M_Shockwave_Refraction_Soft"
+			]
+		},
+		{
+			"ShaderMapHash": "11754A5426ADF795B92AF6A4E7376F71D9F6BDA2",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Fire/M_radial_ramp"
+			]
+		},
+		{
+			"ShaderMapHash": "143A58542E48BEDFA711D147B168E879FFFF46DD",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Heroes/M_SparksPhoto"
+			]
+		},
+		{
+			"ShaderMapHash": "79D0A054C2452B8B978BAE1D7FD1F48C1297E452",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3745D655B42305F6001A6E76A88E1811C6F06DD3",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/DemoRoom/Materials/M_DemoRoomTiles"
+			]
+		},
+		{
+			"ShaderMapHash": "2F066C567E182B147360D6C4384B0E3D31B52247",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "A11B76579C744A6BDD45E032BA2548B2C8EB6E02",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "14E00A58C137B729E385E724159069F396323279",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Sparks/M_Spark_VelocityLerp"
+			]
+		},
+		{
+			"ShaderMapHash": "B2BFA2582570FAED589426BE07103D59C5217C17",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/Mannequin/Character/Materials/M_UE4Man_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "0D8AA4588B2446695D3B95261D3CC2CEC0ADF5EE",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Heroes/Terra/Abilities/MI_Terra_Block_Smoke_Flat"
+			]
+		},
+		{
+			"ShaderMapHash": "BF6FB95BED278BC7041B4D73DC375FDEEA18B1B6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "343CE25B694EB798AEA6E955196A946AA609126F",
+			"Assets": [
+				"/Game/BossAIToolkit/Assets/Weapons/M_Shield_Wood"
+			]
+		},
+		{
+			"ShaderMapHash": "5F77185C664BA57FAE13A0A83C19F160CE417FCD",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0232115D06C45A549313E2EF2E3B0497117DAE5C",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1CE73B601F8CF2B777122FC813AAD7F350B36708",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Debris/M_ImposterRock_Translucent_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "F4138260330F32D7FE2C985761A177B97642EAA9",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Flares/M_SevarogSpeed2"
+			]
+		},
+		{
+			"ShaderMapHash": "A257BA61F7AE8A3F72DCC39F07479DAB9FA125C6",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "D73DD561EF7D4661D12D675455636FC0DF647CA3",
+			"Assets": [
+				"/Game/Assets/Materials/WallMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8F55C3649F8479A4809DA8F1E6103318D21AF9C6",
+			"Assets": [
+				"/Game/BossAIToolkit/Assets/Weapons/M_Wave"
+			]
+		},
+		{
+			"ShaderMapHash": "FC9F3C6664C99D2E15493E0751B650A86628EB80",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "98781B69F4DDA7299E390EB25EE5CE8FAD4B855C",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Flares/M_Shockwave_Core"
+			]
+		},
+		{
+			"ShaderMapHash": "A6DA32696C6D49BB6FADC4685C95908F9D91BA8A",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D926566979F8A660827B0923771A68B945B11A30",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "9AB61D6E4318BFB55D92DDC5FAD491B9B2EF7D7A",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Heroes/Terra/Abilities/MI_SphereChromaWisps_Terra_Ultimate"
+			]
+		},
+		{
+			"ShaderMapHash": "BF79C76FBAAC9238105FAD053A65AB167547C254",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Splines/M_Countess_Spline_Spiral"
+			]
+		},
+		{
+			"ShaderMapHash": "5130697387292FA956A0E7A6BA6B725C4F90240D",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Sparks/M_SoulEmbers"
+			]
+		},
+		{
+			"ShaderMapHash": "15BB14748FC5E5DBD37FFB6BD062F648C15FA09C",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Sparks/M_hardSpark_Alpha_GPU_Random"
+			]
+		},
+		{
+			"ShaderMapHash": "15174D74B798DA02B7157BE4D7589277D3185C39",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "E366EE744F35E5EDFBB3F2D8A896CC310C843529",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Heroes/M_SparksPhoto_GPU_Rand"
+			]
+		},
+		{
+			"ShaderMapHash": "D1361676BB63BA054ECF35AA0E1C89B498B24C73",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Environment/Snow/M_Snow_SubUV_"
+			]
+		},
+		{
+			"ShaderMapHash": "AA76D276B529F4C14FDEB5374341EE6896AE0357",
+			"Assets": [
+				"/Game/Fab/SciFiturretasset/Materials/M_scifiturret"
+			]
+		},
+		{
+			"ShaderMapHash": "6F9E84776335304865C6C71E576BAB828C93D32A",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1ED5B877BF75D19BC6D2783800708D142C269E43",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/DemoRoom/Materials/M_DefaultTextMaterialTranslucentUnlit"
+			]
+		},
+		{
+			"ShaderMapHash": "2268C277F18E3B11F607FB726503D4CFACCD08B5",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Flares/M_Flare_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "6B6A3A78276323574638FD2692CFDF2D97E065CC",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/M_Material_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "CCA43179E55376B0871C235A5B20CAE0D1B27B2E",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Sparks/M_Hotdog_Spark_VLerp_CameraStretch"
+			]
+		},
+		{
+			"ShaderMapHash": "FCD0D779FB93E88BBCE0ECDAAF3D14F9DBF2B75C",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Debris/M_Rock_Dissolve"
+			]
+		},
+		{
+			"ShaderMapHash": "EAAC3D7A1A555FC61CD8F38D25604ABC96CF8EB5",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "85EB6C7AE552EAD0FE9A6493185D5683A7FB837F",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "66D0FB7AC8F8DFD4C069787DD061EDF0CC14910B",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Sparks/M_Hotdog_Spark_VLerp_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "82618B7B1A4F661BB746654CBDE362B1A200C8C1",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "2222277F271CDDF06FAD01D2AB3E772458DA75CF",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Fire/M_explosion_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "3AF4947FFC83CC99827C7F67E7D8A0FE4683AE08",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B13B068039EF4938F35E551E9025BCB3A1D9CE66",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "A2824B80374B856C506220A16C499DD6BAD6C1EA",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Debris/M_DebrisChunks_FakeLit"
+			]
+		},
+		{
+			"ShaderMapHash": "00CCF6815255F7B241D9563F76E0BEC4A1B091A2",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C289548211AED7E844F5FE7070BC3B11CA1A995F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9D41AB82C05735C9E56E3F9BD934A21F2752EC9B",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "27B32A86C56D9BC65A485A80B83B78843D26A5C9",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialRoundedSlider"
+			]
+		},
+		{
+			"ShaderMapHash": "5B27DE86E337C6A4BF781BBA72419E3E018AA674",
+			"Assets": [
+				"/Game/BossAIToolkit/Assets/Weapons/M_Projectile_01"
+			]
+		},
+		{
+			"ShaderMapHash": "95E9F486E4753D40A78FAF61E2FF86C40A14E7CE",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "47171287DE6291B5857394428259B7A013587835",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Shockwave/M_SteelImpactRefraction"
+			]
+		},
+		{
+			"ShaderMapHash": "6301A7877427F1E796C436BDE4953C5EABBF24DE",
+			"Assets": [
+				"/Game/BossAIToolkit/Assets/Geometry/Meshes/M_CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5B791F8B49276ACC29C7F627C67A3D9BE83B7649",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "6E399A8B04441069250858BDBA2AE38E4134839F",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "9E35728CB77CD06049FA362EADF67A724465174A",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Heroes/Terra/Abilities/MI_TerraHitArc_Sweep_Anime"
+			]
+		},
+		{
+			"ShaderMapHash": "C75C998D193F2BDDE79F6C934BA598CEEEEF8BBC",
+			"Assets": [
+				"/Game/Assets/Materials/M_Laser_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "9C69178E89FA456B3EB4E95C30A83CA30A3208F8",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "EAB0288F8DBE141F4283A6F980C7C34A780546B1",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Energy/M_SevarogSwirls"
+			]
+		},
+		{
+			"ShaderMapHash": "D32833955043CC37BD010A4208AA13B0817C8805",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Shockwave/M_Rampage_Refract_Sphere"
+			]
+		},
+		{
+			"ShaderMapHash": "8A42F89525A6CF3FE62E6F97BCD50378DCCA9DC2",
+			"Assets": [
+				"/BlockoutToolsPlugin/Materials/M_BlockoutTools_Custom"
+			]
+		},
+		{
+			"ShaderMapHash": "D761A29650185FC3DD14DBB457C9A7DC5028C1F3",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "70BE1B97F1045E0BC13E2B5CEA9FFFAFCEFFB096",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "447B5198BFED481B3B7C6297FA4C5DFDF892FA5A",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/Mannequin/Character/Materials/M_UE4Man_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "EBBFE399689D1993B7311E4DF1A66A848CEEF036",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Environment/M_RockSlab"
+			]
+		},
+		{
+			"ShaderMapHash": "CB833E9C2845CEF7427212055BE87ED3A805274F",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Decals/M_RuneDecal"
+			]
+		},
+		{
+			"ShaderMapHash": "00D16B9E4A592C86071345CBFDAA234C0D68C612",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Heroes/M_Terra_Smoke_Cheaper",
+				"/Game/BossAIToolkit/Demo/FX/Materials/Smoke/M_Rampage_Smoke_Cheaper"
+			]
+		},
+		{
+			"ShaderMapHash": "19BF929F384BD6FEA319F4AF7B0F7733BFE35489",
+			"Assets": [
+				"/Game/MilitaryWeapDark/Weapons/Materials/M_WeaponMaster_01"
+			]
+		},
+		{
+			"ShaderMapHash": "9EE4B39F6B4AE11EB322E28CFFEFB8BAF967054F",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A35AD8A271CBD3A21613EAC487C8E4A91F005C85",
+			"Assets": [
+				"/Game/BossAIToolkit/Assets/Weapons/M_Projectile_02"
+			]
+		},
+		{
+			"ShaderMapHash": "AF0EADA3C523D7B94C81E3C3940E5BEC0D72B1C6",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Smoke/WispySmokeSoft/M_ShadowSwirls_v1"
+			]
+		},
+		{
+			"ShaderMapHash": "3C6447A69EFFA4AEC172B48B3B6994710D7F9A68",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "B9E685A68A1E204AA2F5D8E0DD4A3ECE13C5C56C",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "A0132FA9B7888625322CD8132BF5B8741D61BE40",
+			"Assets": [
+				"/Game/Fab/Futuristic_Surveillance_Drone/Scene_-_Root"
+			]
+		},
+		{
+			"ShaderMapHash": "D5BA6DAA70625DE0B173C75E990551535AE8B1F5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "E1DBE7AA00E6A436708F452264171A2D3AFE798F",
+			"Assets": [
+				"/Game/MilitaryWeapDark/FX/Materials/M_Smoke_8x8_B_01"
+			]
+		},
+		{
+			"ShaderMapHash": "0E50C1AB6A71E360AF916D3BE4E63B62C3F4CDDF",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9220ADAC5EBCC7452DB04881C15F4DF58A25927D",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "30F49BAF5733DB34FC3E029E2BBBB4E362A61346",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "365BB3B0A645E600BACAF02AE7B03F936F78C78D",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F28BD4B0D112E67BB7DC67D871F7E58CEC396573",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Debris/M_BlurRocks_Fakelit"
+			]
+		},
+		{
+			"ShaderMapHash": "C70D09B126F304BFAAC62D1EE8D763DF9265DA81",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "85CB43B2F3F5D07D89E9C5015EF48285039EF8A4",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "BF6082B3B488F2744BBEE42B527C30B765DDB5A1",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Sparks/M_Hotdog_Spark_VLerp_DOF_Rand_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "E4DFABB3AF9FCA2EBFF9AAD2388DC48B2ECA856E",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "221D23B417E64909BC8CE4FD6119A62F5DB5F19F",
+			"Assets": [
+				"/Game/BossAIToolkit/Assets/Decals/Materials/M_Telegraph"
+			]
+		},
+		{
+			"ShaderMapHash": "72547CB4CC17811D1A221207CA75222677EC1EAF",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02"
+			]
+		},
+		{
+			"ShaderMapHash": "BDC9CFB4D34BC29B82C6A65F6515ABB282C55454",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Flares/M_Anime_Flare"
+			]
+		},
+		{
+			"ShaderMapHash": "86120AB5A0915FBD72A41BFB8BD3710FAD7C72D4",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "28855CB5F60F9D84D9FC19514DB1C1E5AB58E1E0",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Smoke/WispySmokeSoft/M_ShadowSwirls_v2"
+			]
+		},
+		{
+			"ShaderMapHash": "226028B7D7C3697C64EBE257F7F333AC807915B6",
+			"Assets": [
+				"/Game/BossAIToolkit/Assets/Weapons/M_Shield_Metal",
+				"/Game/BossAIToolkit/Assets/Weapons/M_Weapons_Metal"
+			]
+		},
+		{
+			"ShaderMapHash": "6EFB8AB7655E4A6171E799EE30BD1CACD0F1E4D4",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "71D7FDB868649D25E1A4037CDB711C5EBC01314F",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6A35CABBA849DE189E57EDA310448EC124D4EB8D",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask",
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "8037E1BBB258E31ECA7A0AA99100E4B1BE7A9B9A",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Flares/M_ArrowFlare"
+			]
+		},
+		{
+			"ShaderMapHash": "B21F09BEC571449B1783DE0E7750D59B40F8D692",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth"
+			]
+		},
+		{
+			"ShaderMapHash": "D7CC3BC0790FE887512427AE40D1B1417B9EA9B5",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "60D466C199C5B8D4278263977AD377FF93C4905C",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "C56FA7C1BE36C991C36C3C6C5D587543FF3B4C4A",
+			"Assets": [
+				"/BlockoutToolsPlugin/Materials/M_BlockoutTools_Grid"
+			]
+		},
+		{
+			"ShaderMapHash": "DC0DB0C11CD24F488CBDAEA108C9BD80B222527C",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "D5FD71C37CBAAA7655EAD1F67C256D9F2E14F29A",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "7A15C4C36B657FB41C3C2B8B0B37207D7946DE84",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Flares/M_Cone_Flare_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "31A1D2C4EED320C5D5E053ACACF9AA0306AB7AC1",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D457C5C631A20D19936BC0ACFD13D97DAC4F17DC",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialMeter"
+			]
+		},
+		{
+			"ShaderMapHash": "2A63F6C6CD4EF6474F977C37B836BA66E358F192",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "C5D800C84480C7C58F8A39B8221E76232DBCAB15",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Smoke/WispySmokeSoft/M_Turbulent_SmokeSubUV_RandomColorVaration"
+			]
+		},
+		{
+			"ShaderMapHash": "9E6F70CCABD46B5B6F2315DA94E5B7FF1ABB01A3",
+			"Assets": [
+				"/Game/MilitaryWeapDark/FX/Materials/M_Ember_Speed_01"
+			]
+		},
+		{
+			"ShaderMapHash": "895E1DCF8773091CA0A5B3E223AE2E99746D2DDC",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Fire/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "A590F2D5BA1404E7F5CDD37A05F2B8CDD04DF9DD",
+			"Assets": [
+				"/Game/Assets/Enemy/Mutant/mutant_M"
+			]
+		},
+		{
+			"ShaderMapHash": "C3A2F9D73125A9E48F0C883C414AA98782DB7321",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "2BF315DABB484C8CD6C6C4ADDBCAB6BB90F0A598",
+			"Assets": [
+				"/Game/MilitaryWeapDark/FX/Materials/M_SparksImpact_2x2_01"
+			]
+		},
+		{
+			"ShaderMapHash": "9348B3DAAE00AADF513A5E64D9880FECC1583569",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Heroes/M_Sonic_Shockwave"
+			]
+		},
+		{
+			"ShaderMapHash": "EB126ADD216519361B490C6C82C2F774C81D058E",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Fire/M_Fire_Procedural_Round"
+			]
+		},
+		{
+			"ShaderMapHash": "D355CBDFEA78F5C95DE172C2F6B9C1AC6591D6B2",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Environment/M_RockSlab"
+			]
+		},
+		{
+			"ShaderMapHash": "7412E7E28F5A0F59E23E8DE7634C12D06C7AFF2E",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Fire/M_Terra_Block_Smoke"
+			]
+		},
+		{
+			"ShaderMapHash": "DC1793E4706CC0C380C034699C78FD6172688018",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Trails/m_CountessBlinkRibbon"
+			]
+		},
+		{
+			"ShaderMapHash": "4FC725E8D8D6F0B56EB3402223C98A1B21B7ABBE",
+			"Assets": [
+				"/Game/MilitaryWeapDark/FX/Materials/M_GlowSphere_01"
+			]
+		},
+		{
+			"ShaderMapHash": "134443E99E4225FBDA3206C8AEA70CA4590B02BA",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "892FC3E9D6DD4D8349E617582686AC50EC522859",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "465BB2EB7CDC9A2618CD47390DD750F8A845EB2E",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Smoke/M_ThickSmoke_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "6B5B2DECE1E9B817E4FC67D2E1F454F0BDE88A50",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "726A88EF2B1AA3CA465C213B19C00B47D52101D2",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "B6D014F1D6AD1297B4F9F2DCD11717FA6CDEA4CA",
+			"Assets": [
+				"/Game/BossAIToolkit/Assets/Decals/Materials/M_Telegraph_Sub"
+			]
+		},
+		{
+			"ShaderMapHash": "464215F1A0AEBB7DCE176198C7AB96CF6FEB1C7F",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Debris/M_RockPile_MeshEmit_01"
+			]
+		},
+		{
+			"ShaderMapHash": "A44799F1257FDC62D53039D098BC3A4B3A7BEADB",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6C769FF51965939BB9F06FDD19BAD9C9B6EAE7C6",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E1BEA7F6EC11B24833B23C3528AC0FFD53DDFBF5",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Heroes/Terra/Abilities/M_TerraHitArc"
+			]
+		},
+		{
+			"ShaderMapHash": "0832FFF6BCD2C53502C668EE2EA81CF786E3734E",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialToggleButton"
+			]
+		},
+		{
+			"ShaderMapHash": "632433F8BCFE0F4865E1F56A31E5E5CE5E299B28",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/DemoRoom/Materials/M_DemoWall"
+			]
+		},
+		{
+			"ShaderMapHash": "05C1B8F998086E49835C179E927C767E8BF7D626",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "FBF7ABFBBB39E89B2E9F6D07C4CC0C82842CC4E3",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "1FC782FC304BC5E4C30CA0EC195114139FE06DF3",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/Weapons/Materials/M_WeaponMaster_01"
+			]
+		},
+		{
+			"ShaderMapHash": "DCD196FC5FE40C3D93EF558EE3218FA7AC980707",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Shockwave/M_ShockwaveFlame"
+			]
+		},
+		{
+			"ShaderMapHash": "8814BEFCA7D7C447F558F097189C578E4D1B0847",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E4CB38FD76796D926D3F71D31789AF9D8EA1763F",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "E450A1FD699F61DBF7D58AAD7E5199DAD0101806",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/FX/Materials/Flares/M_Flare_Procedural_Noise_Tex_Glow2"
+			]
+		},
+		{
+			"ShaderMapHash": "F839C1FE2913753DA66652FD82DC713426ECDB68",
+			"Assets": [
+				"/Game/BossAIToolkit/Demo/DemoRoom/Materials/M_LightTube"
+			]
+		},
+		{
+			"ShaderMapHash": "4E44E8FFAE389021FDA25E6C48C8275C104D8787",
+			"Assets": [
+				"/HairStrands/Materials/HairDefaultMaterial",
+				"/HairStrands/Materials/HairMeshesDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EBA9FAFF75642717AAF22DB518C4F716C178F9B7",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		}
+	]
+}
