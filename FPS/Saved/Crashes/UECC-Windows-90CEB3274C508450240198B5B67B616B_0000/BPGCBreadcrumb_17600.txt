@@ -1,0 +1,2 @@
+/Game/Assets/UI/WBP_BonusSelect.Default__WBP_BonusSelect_C
+/Game/Assets/UI/WBP_BonusSelect.WBP_BonusSelect_C
