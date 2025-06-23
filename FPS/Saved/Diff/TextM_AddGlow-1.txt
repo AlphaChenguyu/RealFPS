@@ -1,0 +1,266 @@
+Begin Object Class=/Script/Engine.Material Name="M_AddGlow"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTime Name="MaterialExpressionTime_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitchParameter Name="MaterialExpressionStaticSwitchParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitchParameter Name="MaterialExpressionStaticSwitchParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticComponentMaskParameter Name="MaterialExpressionStaticComponentMaskParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionParticleColor Name="MaterialExpressionParticleColor_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPanner Name="MaterialExpressionPanner_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_28"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_27"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_26"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_21"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_20"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDynamicParameter Name="MaterialExpressionDynamicParameter_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDynamicParameter Name="MaterialExpressionDynamicParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDepthFade Name="MaterialExpressionDepthFade_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialEditorOnlyData Name="M_AddGlowEditorOnlyData"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_2"
+   End Object
+   Begin Object Name="MaterialExpressionTime_0"
+      MaterialExpressionEditorX=-1840
+      MaterialExpressionEditorY=416
+      MaterialExpressionGuid=47E217484172240EA22D37930A00DD4D
+      Material="/Script/Engine.Material'M_AddGlow'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_0"
+      ParameterName="FlareTexture"
+      ExpressionGUID=5878EE7149D1822DE1F0C99C22EAADA1
+      Texture="/Script/Engine.Texture2D'/Game/BossAIToolkit/Demo/FX/Textures/Flares/Org_A/T_LensFlare14.T_LensFlare14'"
+      MaterialExpressionEditorX=-1154
+      MaterialExpressionEditorY=77
+      MaterialExpressionGuid=A0E6695F492AC5FE8D057681631EEB86
+      Material="/Script/Engine.Material'M_AddGlow'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_6"
+      Coordinates=(Expression="/Script/Engine.MaterialExpressionStaticSwitchParameter'M_AddGlow:MaterialExpressionStaticSwitchParameter_1'")
+      Texture="/Script/Engine.Texture2D'/Game/BossAIToolkit/Demo/FX/Textures/Tile/Tech/T_Trap_HexMask_Packed.T_Trap_HexMask_Packed'"
+      MaterialExpressionEditorX=-1088
+      MaterialExpressionEditorY=368
+      MaterialExpressionGuid=04656BB848F566CD25564883F2956B9E
+      Material="/Script/Engine.Material'M_AddGlow'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_11"
+      MaterialExpressionEditorX=-1696
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=6CD99C414C628CD7C6D472991D053582
+      Material="/Script/Engine.Material'M_AddGlow'"
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitchParameter_1"
+      A=(Expression="/Script/Engine.MaterialExpressionPanner'M_AddGlow:MaterialExpressionPanner_4'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'M_AddGlow:MaterialExpressionMultiply_28'")
+      ParameterName="UsePanner"
+      ExpressionGUID=DB7F72F44CC3995F587C1FB1FBB7B526
+      Group="OverlayTexture"
+      MaterialExpressionEditorX=-1280
+      MaterialExpressionEditorY=384
+      MaterialExpressionGuid=126CD87B4D0D9541B249AE93B3B4C44F
+      Material="/Script/Engine.Material'M_AddGlow'"
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitchParameter_0"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'M_AddGlow:MaterialExpressionMultiply_26'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'M_AddGlow:MaterialExpressionMultiply_21'")
+      ParameterName="UseOverlayTexture"
+      ExpressionGUID=400C2F534A89FDDEE4917CA3B649C807
+      Group="OverlayTexture"
+      MaterialExpressionEditorX=-496
+      MaterialExpressionEditorY=336
+      MaterialExpressionGuid=3916C02D4F1E4A882B7843A85080281C
+      Material="/Script/Engine.Material'M_AddGlow'"
+      Desc="Multiplies by another texture"
+      bCommentBubbleVisible=True
+   End Object
+   Begin Object Name="MaterialExpressionStaticComponentMaskParameter_0"
+      Input=(Expression="/Script/Engine.MaterialExpressionTextureSample'M_AddGlow:MaterialExpressionTextureSample_6'",Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      DefaultG=True
+      ParameterName="OverlayTextureChannel"
+      ExpressionGUID=A72A04E841D4FBA0C0AA6DA9D0F47AB3
+      Group="OverlayTexture"
+      MaterialExpressionEditorX=-912
+      MaterialExpressionEditorY=352
+      MaterialExpressionGuid=51D579C04F3840D76CD45FA591A3C721
+      Material="/Script/Engine.Material'M_AddGlow'"
+      Desc="Defaults to G"
+      bCommentBubbleVisible=True
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_0"
+      DefaultValue=100.000000
+      ParameterName="FadeDistance"
+      ExpressionGUID=B880FBCA41992DA13505F585CFD4DE09
+      MaterialExpressionEditorX=-601
+      MaterialExpressionEditorY=705
+      MaterialExpressionGuid=A21A7E574CEDFED95AD72DA2CB131BC6
+      Material="/Script/Engine.Material'M_AddGlow'"
+   End Object
+   Begin Object Name="MaterialExpressionParticleColor_2"
+      MaterialExpressionEditorX=-1154
+      MaterialExpressionEditorY=-115
+      MaterialExpressionGuid=CB78693D4BA8E387A8F4D7959DA1DBBC
+      Material="/Script/Engine.Material'M_AddGlow'"
+   End Object
+   Begin Object Name="MaterialExpressionPanner_4"
+      Coordinate=(Expression="/Script/Engine.MaterialExpressionMultiply'M_AddGlow:MaterialExpressionMultiply_28'")
+      Time=(Expression="/Script/Engine.MaterialExpressionMultiply'M_AddGlow:MaterialExpressionMultiply_27'")
+      SpeedY=1.000000
+      MaterialExpressionEditorX=-1440
+      MaterialExpressionEditorY=384
+      MaterialExpressionGuid=AC2A64194C4566CAB9AF6BA6DD4CF741
+      Material="/Script/Engine.Material'M_AddGlow'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_28"
+      A=(Expression="/Script/Engine.MaterialExpressionTextureCoordinate'M_AddGlow:MaterialExpressionTextureCoordinate_11'")
+      B=(Expression="/Script/Engine.MaterialExpressionDynamicParameter'M_AddGlow:MaterialExpressionDynamicParameter_1'",OutputIndex=1,Mask=1,MaskG=1)
+      MaterialExpressionEditorX=-1536
+      MaterialExpressionEditorY=512
+      MaterialExpressionGuid=88F58B4F49415CA4EFF1B2B5E5EAD73C
+      Material="/Script/Engine.Material'M_AddGlow'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_27"
+      A=(Expression="/Script/Engine.MaterialExpressionTime'M_AddGlow:MaterialExpressionTime_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionDynamicParameter'M_AddGlow:MaterialExpressionDynamicParameter_1'",Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-1680
+      MaterialExpressionEditorY=480
+      MaterialExpressionGuid=FD3AA1B943982F4E2263A5B268DB9A2C
+      Material="/Script/Engine.Material'M_AddGlow'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_26"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'M_AddGlow:MaterialExpressionMultiply_21'")
+      B=(Expression="/Script/Engine.MaterialExpressionStaticComponentMaskParameter'M_AddGlow:MaterialExpressionStaticComponentMaskParameter_0'")
+      MaterialExpressionEditorX=-672
+      MaterialExpressionEditorY=336
+      MaterialExpressionGuid=59C277BE4EE54E16663A679E6A79EFEA
+      Material="/Script/Engine.Material'M_AddGlow'"
+      bCollapsed=False
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_21"
+      A=(Expression="/Script/Engine.MaterialExpressionParticleColor'M_AddGlow:MaterialExpressionParticleColor_2'",OutputIndex=4,Mask=1,MaskA=1)
+      B=(Expression="/Script/Engine.MaterialExpressionTextureSampleParameter2D'M_AddGlow:MaterialExpressionTextureSampleParameter2D_0'",OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-880
+      MaterialExpressionEditorY=160
+      MaterialExpressionGuid=401618214683A75D502C97B43BA28499
+      Material="/Script/Engine.Material'M_AddGlow'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_20"
+      A=(Expression="/Script/Engine.MaterialExpressionParticleColor'M_AddGlow:MaterialExpressionParticleColor_2'",Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression="/Script/Engine.MaterialExpressionTextureSampleParameter2D'M_AddGlow:MaterialExpressionTextureSampleParameter2D_0'",OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-898
+      MaterialExpressionEditorY=41
+      MaterialExpressionGuid=794C93E84E015A8C09BB11B39CD33D9D
+      Material="/Script/Engine.Material'M_AddGlow'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression="/Script/Engine.MaterialExpressionDepthFade'M_AddGlow:MaterialExpressionDepthFade_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'M_AddGlow:MaterialExpressionMaterialFunctionCall_0'")
+      MaterialExpressionEditorX=100
+      MaterialExpressionEditorY=166
+      MaterialExpressionGuid=1C1A2C2E46597E764F9DDCAA885597BB
+      Material="/Script/Engine.Material'M_AddGlow'"
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_5"
+      MaterialFunction="/Script/Engine.MaterialFunction'/Game/BossAIToolkit/Demo/FX/Materials/Functions/MF_FX_EmissiveModulate.MF_FX_EmissiveModulate'"
+      FunctionInputs(0)=(ExpressionInputId=97A5E8C9451DBF7FBCBCBCBB7A5377CA,Input=(Expression="/Script/Engine.MaterialExpressionMultiply'M_AddGlow:MaterialExpressionMultiply_20'",InputName="In"))
+      FunctionOutputs(0)=(ExpressionOutputId=4FB6A48D4A693488FA2F29A4A211E00A,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=64
+      MaterialExpressionEditorY=16
+      MaterialExpressionGuid=7F9E453D451F0F6A43F572BD0FCB989B
+      Material="/Script/Engine.Material'M_AddGlow'"
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_0"
+      MaterialFunction="/Script/Engine.MaterialFunction'/Game/BossAIToolkit/Demo/FX/Materials/Functions/MF_CameraDistanceFade.MF_CameraDistanceFade'"
+      FunctionInputs(0)=(ExpressionInputId=68FCDE9546F2B1D310B673AFFD1B64FA,Input=(Expression="/Script/Engine.MaterialExpressionDynamicParameter'M_AddGlow:MaterialExpressionDynamicParameter_2'",OutputIndex=2,InputName="Distance",Mask=1,MaskB=1))
+      FunctionOutputs(0)=(ExpressionOutputId=ED623E3F4A817F47DF7737BC2DCA7B76,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-192
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=0FC061634B43169877838DB656A0EEC8
+      Material="/Script/Engine.Material'M_AddGlow'"
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionDynamicParameter_2"
+      ParamNames(0)="OverlayPanSpeed"
+      ParamNames(1)="OverlayTextureScale"
+      ParamNames(2)="CameraFadeDistance"
+      DefaultValue=(R=1.000000,G=3.000000,B=16.000000,A=1.000000)
+      MaterialExpressionEditorX=-416
+      MaterialExpressionEditorY=464
+      MaterialExpressionGuid=AB62CFA3497CCEF09A66D084F61EEA39
+      Material="/Script/Engine.Material'M_AddGlow'"
+      Outputs(0)=(OutputName="OverlayPanSpeed")
+      Outputs(1)=(OutputName="OverlayTextureScale")
+      Outputs(2)=(OutputName="CameraFadeDistance")
+      Outputs(3)=(OutputName="Param4")
+      Outputs.RemoveIndex(5)
+      Outputs.RemoveIndex(4)
+   End Object
+   Begin Object Name="MaterialExpressionDynamicParameter_1"
+      ParamNames(0)="OverlayPanSpeed"
+      ParamNames(1)="OverlayTextureScale"
+      ParamNames(2)="CameraFadeDistance"
+      DefaultValue=(R=1.000000,G=3.000000,B=16.000000,A=1.000000)
+      MaterialExpressionEditorX=-1889
+      MaterialExpressionEditorY=503
+      MaterialExpressionGuid=AB62CFA3497CCEF09A66D084F61EEA39
+      Material="/Script/Engine.Material'M_AddGlow'"
+      Outputs(0)=(OutputName="OverlayPanSpeed")
+      Outputs(1)=(OutputName="OverlayTextureScale")
+      Outputs(2)=(OutputName="CameraFadeDistance")
+      Outputs(3)=(OutputName="Param4")
+      Outputs.RemoveIndex(5)
+      Outputs.RemoveIndex(4)
+   End Object
+   Begin Object Name="MaterialExpressionDepthFade_0"
+      InOpacity=(Expression="/Script/Engine.MaterialExpressionStaticSwitchParameter'M_AddGlow:MaterialExpressionStaticSwitchParameter_0'")
+      FadeDistance=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_AddGlow:MaterialExpressionScalarParameter_0'")
+      MaterialExpressionEditorX=-272
+      MaterialExpressionEditorY=160
+      MaterialExpressionGuid=5C27E657423F349696386FACCE99D956
+      Material="/Script/Engine.Material'M_AddGlow'"
+   End Object
+   Begin Object Name="M_AddGlowEditorOnlyData"
+      EmissiveColor=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'M_AddGlow:MaterialExpressionMaterialFunctionCall_5'")
+      Opacity=(Expression="/Script/Engine.MaterialExpressionMultiply'M_AddGlow:MaterialExpressionMultiply_0'")
+      ExpressionCollection=(Expressions=("/Script/Engine.MaterialExpressionMaterialFunctionCall'M_AddGlow:MaterialExpressionMaterialFunctionCall_5'","/Script/Engine.MaterialExpressionMultiply'M_AddGlow:MaterialExpressionMultiply_0'","/Script/Engine.MaterialExpressionMultiply'M_AddGlow:MaterialExpressionMultiply_20'","/Script/Engine.MaterialExpressionDepthFade'M_AddGlow:MaterialExpressionDepthFade_0'","/Script/Engine.MaterialExpressionParticleColor'M_AddGlow:MaterialExpressionParticleColor_2'","/Script/Engine.MaterialExpressionMultiply'M_AddGlow:MaterialExpressionMultiply_21'","/Script/Engine.MaterialExpressionTextureSampleParameter2D'M_AddGlow:MaterialExpressionTextureSampleParameter2D_0'","/Script/Engine.MaterialExpressionMultiply'M_AddGlow:MaterialExpressionMultiply_26'","/Script/Engine.MaterialExpressionStaticSwitchParameter'M_AddGlow:MaterialExpressionStaticSwitchParameter_0'","/Script/Engine.MaterialExpressionTextureSample'M_AddGlow:MaterialExpressionTextureSample_6'","/Script/Engine.MaterialExpressionStaticComponentMaskParameter'M_AddGlow:MaterialExpressionStaticComponentMaskParameter_0'","/Script/Engine.MaterialExpressionStaticSwitchParameter'M_AddGlow:MaterialExpressionStaticSwitchParameter_1'","/Script/Engine.MaterialExpressionDynamicParameter'M_AddGlow:MaterialExpressionDynamicParameter_1'","/Script/Engine.MaterialExpressionTextureCoordinate'M_AddGlow:MaterialExpressionTextureCoordinate_11'","/Script/Engine.MaterialExpressionPanner'M_AddGlow:MaterialExpressionPanner_4'","/Script/Engine.MaterialExpressionMultiply'M_AddGlow:MaterialExpressionMultiply_27'","/Script/Engine.MaterialExpressionTime'M_AddGlow:MaterialExpressionTime_0'","/Script/Engine.MaterialExpressionMultiply'M_AddGlow:MaterialExpressionMultiply_28'","/Script/Engine.MaterialExpressionMaterialFunctionCall'M_AddGlow:MaterialExpressionMaterialFunctionCall_0'","/Script/Engine.MaterialExpressionDynamicParameter'M_AddGlow:MaterialExpressionDynamicParameter_2'","/Script/Engine.MaterialExpressionScalarParameter'M_AddGlow:MaterialExpressionScalarParameter_0'"))
+   End Object
+   BlendMode=BLEND_Additive
+   ShadingModel=MSM_Unlit
+   ShadingModels=(ShadingModelField=1)
+   bUsedWithParticleSprites=True
+   EditorX=416
+   bCanMaskedBeAssumedOpaque=True
+   PixelDepthOffsetMode=PDOM_Legacy
+   StateId=13E02E8BA1495BBDB321E1A81DC3C564
+   ReferencedTextureGuids(0)=62CFC48049C1EE3AA47E7288A754C35E
+   EditorOnlyData="/Script/Engine.MaterialEditorOnlyData'M_AddGlowEditorOnlyData'"
+   ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_2'"
+   LightingGuid=E7058C29490F3DC36B2BF79D7597B49A
+End Object

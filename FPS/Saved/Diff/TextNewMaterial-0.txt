@@ -1,0 +1,9 @@
+Begin Object Class=/Script/Engine.Material Name="NewMaterial"
+   Begin Object Class=/Script/Engine.MaterialEditorOnlyData Name="NewMaterialEditorOnlyData"
+   End Object
+   Begin Object Name="NewMaterialEditorOnlyData"
+   End Object
+   StateId=078B170045B573DAB1C55098AD4E7879
+   EditorOnlyData="/Script/Engine.MaterialEditorOnlyData'NewMaterialEditorOnlyData'"
+   LightingGuid=CA22CB33493D283D35F47DAD9C7E7A9C
+End Object
