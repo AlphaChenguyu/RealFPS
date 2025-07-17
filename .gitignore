@@ -78,3 +78,5 @@ DerivedDataCache/*
 #*.uasset
 /Content/__ExternalActors__/
 /Content/__ExternalObjects__/
+/FPS/Content/__ExternalActors__/Assets/Maps
+/FPS/Content/__ExternalObjects__/Assets
