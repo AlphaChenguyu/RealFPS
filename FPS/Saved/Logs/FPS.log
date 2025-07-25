@@ -8176,3 +8176,61 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2025.07.25-18.48.26:480][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
 [2025.07.25-18.48.29:322][ 38]LogSlate: Window '消息日志' being destroyed
 [2025.07.25-18.48.29:329][ 38]LogSlate: Window '消息日志' being destroyed
+[2025.07.25-18.49.47:336][397]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.07.25-18.49.47:351][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.25-18.49.47:372][397]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_MainLevel1
+[2025.07.25-18.49.47:388][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016125s)
+[2025.07.25-18.49.47:388][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/MainLevel1.MainLevel1 to /Game/Assets/Maps/UEDPIE_0_MainLevel1.MainLevel1 (0.016165s)
+[2025.07.25-18.49.47:416][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.07.25-18.49.47:418][397]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel1
+[2025.07.25-18.49.47:420][397]LogPlayLevel: PIE: World Init took: (0.001469s)
+[2025.07.25-18.49.47:420][397]LogAudio: Display: Creating Audio Device:                 Id: 87, Scope: Unique, Realtime: True
+[2025.07.25-18.49.47:420][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.25-18.49.47:420][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.25-18.49.47:420][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.25-18.49.47:420][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.25-18.49.47:420][397]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.25-18.49.47:420][397]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.25-18.49.47:420][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.25-18.49.47:420][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.25-18.49.47:420][397]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.25-18.49.47:420][397]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.25-18.49.47:420][397]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.25-18.49.47:423][397]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.25-18.49.47:471][397]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Senary Audio)
+[2025.07.25-18.49.47:471][397]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.25-18.49.47:471][397]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.25-18.49.47:471][397]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.25-18.49.47:472][397]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=87
+[2025.07.25-18.49.47:472][397]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=87
+[2025.07.25-18.49.47:473][397]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=87
+[2025.07.25-18.49.47:473][397]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=87
+[2025.07.25-18.49.47:473][397]LogInit: FAudioDevice initialized with ID 87.
+[2025.07.25-18.49.47:473][397]LogAudio: Display: Audio Device (ID: 87) registered with world 'MainLevel1'.
+[2025.07.25-18.49.47:473][397]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 87
+[2025.07.25-18.49.47:478][397]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.25-18.49.47:485][397]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_MainLevel1.MainLevel1 up for play (max tick rate 60) at 2025.07.25-19.49.47
+[2025.07.25-18.49.47:486][397]LogWorld: Bringing up level for play took: 0.007474
+[2025.07.25-18.49.47:486][397]LogNavigation: Warning: Recreating dtNavMesh instance RecastNavMesh_UAID_B025AA6B66F2365A02-Default due to saved navmesh origin (X=0.000 Y=-270.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2025.07.25-18.49.47:489][397]LogOnline: OSS: Created online subsystem instance for: :Context_143
+[2025.07.25-18.49.47:495][397]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2025.07.25-18.49.47:498][397]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.07.25-18.49.47:500][397]PIE: 登陆的服务器
+[2025.07.25-18.49.47:501][397]PIE: PIE总开始时间：0.15秒。
+[2025.07.25-18.49.47:550][398]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.07.25-18.49.47:903][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.25-18.49.47:903][415]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_MainLevel1
+[2025.07.25-18.49.47:903][415]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.25-18.49.47:904][415]LogWorld: UWorld::CleanupWorld for MainLevel1, bSessionEnded=true, bCleanupResources=true
+[2025.07.25-18.49.47:906][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.25-18.49.47:907][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.25-18.49.47:911][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.25-18.49.47:936][415]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.25-18.49.47:936][415]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 87
+[2025.07.25-18.49.47:936][415]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87, StreamState=4
+[2025.07.25-18.49.47:938][415]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87, StreamState=2
+[2025.07.25-18.49.47:942][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.25-18.49.47:946][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.07.25-18.49.47:987][416]LogPlayLevel: Display: Destroying online subsystem :Context_143
