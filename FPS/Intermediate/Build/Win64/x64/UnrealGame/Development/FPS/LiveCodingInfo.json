@@ -1,5 +1,8 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.FPS.cpp.obj": [
+			"FPS.cpp.obj"
+		]
 	}
 }
